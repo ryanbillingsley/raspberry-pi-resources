@@ -18,3 +18,4 @@ Networking
 ==========
 
 * http://www.raspberrypi.org/documentation/troubleshooting/hardware/networking/ip-address.md
+* http://www.savagehomeautomation.com/projects/raspberry-pi-installing-the-edimax-ew-7811un-usb-wifi-adapte.html
