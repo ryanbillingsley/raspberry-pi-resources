@@ -19,3 +19,8 @@ Networking
 
 * http://www.raspberrypi.org/documentation/troubleshooting/hardware/networking/ip-address.md
 * http://www.savagehomeautomation.com/projects/raspberry-pi-installing-the-edimax-ew-7811un-usb-wifi-adapte.html
+
+Bluetooth
+=========
+
+* http://blog.dawnrobotics.co.uk/2013/11/talking-to-a-bluetooth-serial-module-with-a-raspberry-pi/ - Talking over bluetooth between the Pi and an Arduino
