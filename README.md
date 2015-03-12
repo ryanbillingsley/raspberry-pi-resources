@@ -7,6 +7,7 @@ Development
 * https://github.com/fivdi/onoff - Node implementation of GPIO interupt code
 * http://en.wikipedia.org/wiki/Epoll
 * https://gist.github.com/wolfeidau/33dcf2ea2648a10bb9e7
+* http://www.hanselman.com/blog/HowToRunASPNET5Beta3OrGoLangOnARaspberryPi2.aspx - Install instructions for Go and ASP MVC 5
 
 Image and Kernel
 ================
