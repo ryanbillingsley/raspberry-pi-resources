@@ -26,3 +26,9 @@ Bluetooth
 =========
 
 * http://blog.dawnrobotics.co.uk/2013/11/talking-to-a-bluetooth-serial-module-with-a-raspberry-pi/ - Talking over bluetooth between the Pi and an Arduino
+* 
+
+Development
+===========
+
+* Elixir - http://blog.onfido.com/using-cpus-elixir-on-raspberry-pi2/
